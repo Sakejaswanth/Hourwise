@@ -1,4 +1,4 @@
-# Time Tracker Pro (hourly) ✦
+# Time Tracker Pro (hourly) 
 
 A modern, high-performance time tracking and productivity web application built with **React 19**, **TypeScript**, and **Vite**. Designed with an ultra-clean SaaS aesthetic inspired by Linear and Cron, featuring live drift-free timers, Pomodoro focus mode, project budgets, visual analytics, calendar timeline, and client invoice generation.
 
@@ -136,6 +136,3 @@ src/
 ```
 
 ---
-
-## 📄 License
-MIT License.
